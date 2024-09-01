@@ -1,0 +1,1 @@
+export const API_URL='https://risingmedia.in/mc/api/rnv1/';
